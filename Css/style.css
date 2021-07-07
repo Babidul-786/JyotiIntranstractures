@@ -94,6 +94,7 @@
  .banner-form h2
  {
      color: var(--clr-white);
+     margin-bottom: 25px;
  }
 
 .contactForm h2{
@@ -430,6 +431,7 @@ font-size: 20px;
 .banner-form h2
 {
     font-size: 23px;
+    margin-bottom: 20px;
 }
 
 .About h2, .About h3
@@ -608,7 +610,7 @@ font-size: 20px;
    .banner_text
     {
     width: 90%;
-    margin-top: 10%;
+    margin-top: 15%;
     margin-left: 10px;
     }
    .banner_text p
@@ -616,10 +618,9 @@ font-size: 20px;
    font-size: 14px;
    }
 
-   
     .location_section h3, .Hightlights h3, .Rooftop_text h4, .Complete h4
 
-{
-    font-size: 17px;
-}
+    {
+        font-size: 17px;
+    }
 }
